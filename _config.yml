@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I´m a Computer Engineering student. I also have experience making code and app desing, as well as some 3D modeling. I have no experience in the work field yet, but I would love to demonstrate my skills to the world.
+  Hi, my name's Kevin and I´m a Computer Engineering student. I also have experience making code and app desing, as well as some 3D modeling. I have no experience in the work field yet, but I would love to demonstrate my skills to the world.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Eating KFC</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Front</mark>
 
 content:
   - title: Projects # Title for the section
